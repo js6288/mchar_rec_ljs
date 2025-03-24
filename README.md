@@ -16,3 +16,5 @@
 ## 融合模型分数
 
 ResNet101+MobileNet_v2: 0.9105
+
+![image-20250325003206897](https://img-md-js.linjsblog.top/img/202503250125982.png)
