@@ -1,6 +1,9 @@
 # 城市探险家：街景字符识别赛
 
+比赛地址：https://tianchi.aliyun.com/competition/entrance/531795
+
 ## 数据集下载
+
 运行 download.py 下载数据集到tcdata文件夹
 
 ## 单模型分数
